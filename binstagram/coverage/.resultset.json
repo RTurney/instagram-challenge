@@ -729,6 +729,21 @@
           null
         ]
       },
+      "/Users/richardturney/Documents/Projects/instagram-challenge/binstagram/spec/features/user_log_in_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/richardturney/Documents/Projects/instagram-challenge/binstagram/spec/features/user_register_spec.rb": {
         "lines": [
           1,
@@ -741,6 +756,8 @@
           1,
           null,
           null,
+          null,
+          1,
           1,
           1,
           1,
@@ -829,8 +846,39 @@
           null,
           null
         ]
+      },
+      "/Users/richardturney/Documents/Projects/instagram-challenge/binstagram/app/controllers/users/sessions_controller.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1614548604
+    "timestamp": 1614589819
   }
 }

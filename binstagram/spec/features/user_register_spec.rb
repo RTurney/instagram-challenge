@@ -7,7 +7,9 @@ RSpec.describe 'User registration', type: :system do
       get "/users/sign_up"
       expect(response).to have_http_status(:success)
     end
+  end
 
+  describe 'sign up form' do
     it "allows users to register to binstagram" do
       visit("/users/sign_up")
       fill_in :email, with: "test@email.com"
